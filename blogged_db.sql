@@ -83,7 +83,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `password`) VALUES
-(1, 'admin', 'Testweb@');
+(1, 'admin', '$2y$10$jmlLWWVDYqwXpyOgQqYsXuf5fKUhpDfx2Iv3onWKTW2xmZn15C2Cq');
 
 --
 -- Indexes for dumped tables
