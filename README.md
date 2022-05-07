@@ -17,4 +17,6 @@ Blogged is a simple yet amazing blogging script in PHP, MYSQL, Bootstrap and Jqu
 
 8) If you are using this script on Linux, please set 777 permissions on 'uploads' folder.
 
-9) Enjoy 🚀  
+9) Username : admin password : Testweb@ for admin panel!
+
+10) Enjoy 🚀  
